@@ -9,4 +9,4 @@ In the Statamic dashboard, you are able to select one of these templates that yo
 
 ## Blueprints
 - determine what fields are shown in your public forms. You can configure the fields order, each field’s width, and group them into sections and tabs. 
-- # learn-statamic
+- 
